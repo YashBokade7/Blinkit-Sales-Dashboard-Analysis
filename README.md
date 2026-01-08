@@ -86,4 +86,4 @@ Aspiring Business / Data Analyst
 ## 🔗 Note
 This project was developed as part of my **On-Job Training (OJT)** and is intended for **learning, portfolio, and demonstration purposes**.
 Screenshot : 
-(https://github.com/YashBokade7/Blinkit-Sales-Dashboard-Analysis/blob/main/Blinkit%20Sales.pdf)
+![Dashboard Preview](https://github.com/YashBokade7/Blinkit-Sales-Dashboard-Analysis/blob/main/Blinkit%20Sales.pdf)
